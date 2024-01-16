@@ -2,8 +2,6 @@
 
 ![image](https://github.com/huggingface/text-generation-inference/assets/3841370/38ba1531-ea0d-4851-b31a-a6d4ddc944b0)
 
-# Text Generation Inference
-
 <a href="https://github.com/huggingface/text-generation-inference">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/huggingface/text-generation-inference?style=social">
 </a>
@@ -15,8 +13,6 @@ A Rust, Python and gRPC server for text generation inference. Used in production
 to power Hugging Chat, the Inference API and Inference Endpoint.
 
 </div>
-
-## Table of contents
 
 - [Get Started](#get-started)
   - [API Documentation](#api-documentation)
